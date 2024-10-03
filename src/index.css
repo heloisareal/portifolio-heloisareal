@@ -26,7 +26,8 @@ body{
 
 /* TIPOGRAFIA */
 
-.headline-1{
+.headline-1, 
+.headline-2{
   @apply max-w-max;
   background: -webkit-linear-gradient(0deg, #fafafa, #a1a1a1);
   -webkit-background-clip: text;
@@ -35,6 +36,14 @@ body{
 
 .headline-1{
   @apply text-5xl leading-tight font-semibold lg:text-[55px] lg:leading-[1.15]
+}
+
+.headline-2{
+  @apply text-3xl lg:text-4xl lg:leading-tight font-semibold
+}
+
+.title1{
+  @apply text-[22px] font-normal
 }
 
 /* HERO */
@@ -95,4 +104,8 @@ body{
 
 .btn-outline{
   @apply h-11 bg-zinc-800 hover:bg-zinc-700 active:bg-zinc-800
+}
+
+.section{
+  @apply pt-20 lg:pt-3
 }
