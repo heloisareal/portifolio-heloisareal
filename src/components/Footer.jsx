@@ -28,23 +28,15 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'https://www.github.com/heloisareal'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
-    },
-    {
-      label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
+      href: 'https://www.linkedin.com/in/heloisareal/'
     },
     {
       label: 'Instagram',
-      href: 'https://www.instagram.com/codewithsadee'
-    },
-    {
-      label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
+      href: 'https://www.instagram.com/heloreal17'
     }
   ];
 
@@ -58,12 +50,12 @@ const Footer = () =>{
 
                     <div className="mb-10">
                         <h2 className="headline-1 mb-8 lg:max-w[12ch] reveal-up">
-                            Let&apos;s work together today!
+                            Vamos trabalhar juntos!
                         </h2>
 
                         <ButtonPrimary 
                             href="mailto:heloisareal17@gmail.com"
-                            label="Start project"
+                            label="Conversar agora"
                             icon="chevron_right"
                             classes="reveal-up"
                         />
@@ -90,7 +82,7 @@ const Footer = () =>{
                         </div>
 
                         <div>
-                            <p className="mb-2">Socials</p>
+                            <p className="mb-2">Redes Sociais</p>
 
                             <ul>
                                 {socials.map(({ label, href }, key) => (
@@ -116,7 +108,7 @@ const Footer = () =>{
                     className="logo reveal-up"
                     >
                         <img 
-                        src="/images/logo.svg"
+                        src="/images/logo.png"
                         width={40}
                         height={40}
                         alt="Logo" 
