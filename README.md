@@ -12,5 +12,6 @@ Após o download das dependências do projeto, acesse no https.
 - Visualize o site rapidamente com um clique: https://portifolio-heloisareal.vercel.app/
 - Acesse o vídeo base que utilizei para a criação do projeto: https://www.youtube.com/watch?v=k3JMkRwd_Nw
 - GSAP e Lenis foram efeitos utilizados e adicionados nesse projeto!
+- Ao invés do email ser printado em um console.log, ele é enviado diretamente para mim, espero que considere um diferencial.
 
 ## Qualquer dúvida entre em contato comigo
