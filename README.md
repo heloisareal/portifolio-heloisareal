@@ -1,8 +1,16 @@
-# React + Vite
+# Portifólio Heloísa Real  
+Documentação do meu portifólio, finalizado em: 06/10/2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Para iniciar o projeto, após baixar o .zip, extraia os arquivos e baixe as dependências com o seguinte código na linha de comando:
+```
+  npm i
+  npm run dev 
+```
+Após o download das dependências do projeto, acesse no https.
 
-Currently, two official plugins are available:
+## Você também deve saber
+- Visualize o site rapidamente com um clique: https://portifolio-heloisareal.vercel.app/
+- Acesse o vídeo base que utilizei para a criação do projeto: https://www.youtube.com/watch?v=k3JMkRwd_Nw
+- GSAP e Lenis foram efeitos utilizados e adicionados nesse projeto!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Qualquer dúvida entre em contato comigo
